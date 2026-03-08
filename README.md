@@ -5,10 +5,10 @@
 ## 👥 Team Members
 
 This project was collaboratively developed by:
-* **Chandra Sekar G** (Team Lead)
-* **Bharath H** (Member)
-* **Bhuvaneswaran G** (Member)
-* **Boopathi B L** (Member)
+ SANJAI KUMAR K(Team Lead)
+ SATHISH M(Member)
+ SANTHOSH K(Member)
+ SANJAY N(Member)
 
 ---
 
